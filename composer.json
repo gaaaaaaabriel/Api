@@ -1,0 +1,16 @@
+{
+    "name": "gabriel/api_pdv",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "Api/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Israel Oliveira",
+            "email": "israelolieira.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
